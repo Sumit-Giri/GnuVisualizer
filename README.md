@@ -41,9 +41,6 @@ GNU Visualizer is a C++ project aimed at visualizing various geometric shapes us
 ## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - The project was inspired by the need for a simple visualization tool for geometric shapes.
 - Special thanks to GNU Plot for providing powerful visualization capabilities.
